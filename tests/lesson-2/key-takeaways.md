@@ -50,5 +50,5 @@ console.log("5 lớn hơn 3")
 // code }
 
 **Note**: Format code Mac: 
-- Option + Shift + F
+- Mac: Option + Shift + F
 - Window: Alt + Shift + F
